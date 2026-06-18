@@ -10,7 +10,7 @@ This project demonstrates how reasoning capabilities can be **compressed, distil
 
 ## 🔍 Project Overview
 
-Standard small LLMs struggle with complex reasoning. ReasonMind-3B solves this by:
+Standard small LLMs struggle with complex reasoning. ReasonMind-3B solves this by
 
 - Using DeepSeek-R1 reasoning traces through the **R1-Distill-SFT** dataset  
 - Fine-tuning with **Unsloth** to reduce VRAM usage by ~60%  
